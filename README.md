@@ -11,4 +11,4 @@
 * python server.py
 
 ## example use
-* curl -i -X POST -F name=Test -F filedata=@sample.csv "http://localhost:5000/api/getAddresses" 
+* curl -i -X POST -F filedata=@sample.csv "http://localhost:5000/api/getAddresses" 
